@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512396250281">
+      <file name="/Dummy.txt" timestamp="1512396594596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1512396168849">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/src/main/java/Lesson1.java" timestamp="1512396475017">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/src/main/java/Base.java" timestamp="1512395945794">
         <mark key="[" line="3" column="0" />
@@ -25,17 +30,22 @@
       <file name="/fragment.java" timestamp="1512396108057">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/.gitignore" timestamp="1512396590721">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/.gitignore" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
